@@ -39,7 +39,7 @@ body {
 
 .bg-img {
   background-color: white;
-  background-image: url(../images/pattern-bg.png);
+  background-image: url(./images/pattern-bg.png);
   background-repeat: no-repeat;
   background-position: center;
 
