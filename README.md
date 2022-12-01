@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/ip-address-tracker-with-proxy-backend-using-express-A8R0-uuCGw)
-- Live Site URL: [Github PAges](https://pedrohsouza.github.io/ip-address-tracker/)
+- Live Site URL: [Github Pages](https://pedrohsouza.github.io/ip-address-tracker/)
 
 ## My process
 
