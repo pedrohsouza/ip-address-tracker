@@ -55,8 +55,6 @@ Since I needed to use an API key to the geolocation API, I decided to divide the
 
 The backend half of the project can be found [here](https://github.com/pedrohsouza/ip-address-tracker-backend).
 
-To see how you can add code snippets, see below:
-
 ### Continued development
 
 I'd like to add some error handling in the future and make some improvements in the UI.
